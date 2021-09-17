@@ -1,3 +1,4 @@
+# This is what happens when the repository gets updated.
 from ozekilibsrest import Configuration, Message, MessageApi
 
 configuration = Configuration(
